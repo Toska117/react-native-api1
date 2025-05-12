@@ -39,6 +39,7 @@ class App extends Component {
           <Text>Loading...</Text>
           <StatusBar style="auto" />
         </View>
+
       );
     }
 
